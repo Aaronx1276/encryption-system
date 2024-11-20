@@ -32,8 +32,8 @@ This project implements a **Secure File Encryption and Decryption System** using
 6. **Run the application: Start the application by running the following command**:
    ```bash
    python gui.py
-
-**Folder Structure**
+   
+**Folder Structure**:
 encryption-system/
 ├── encryption_utils.py             # Functions for file encryption and decryption
 ├── decrypted_files/                # Folder where decrypted files are saved
