@@ -54,3 +54,13 @@ This project implements a **Secure File Encryption and Decryption System** using
 7. **Acknowledgements**: Credits to ChaCha20 encryption.
 
 This `README.md` file should now better reflect the core functionality of your encryption/decryption project. You can update the content as needed.
+
+**Screenshots**:
+![image](https://github.com/user-attachments/assets/621cadf2-0916-47ca-9f18-79fce6863c7c)
+
+![image](https://github.com/user-attachments/assets/aa1beb19-b2be-4600-ace4-e685098a7cce)
+
+![image](https://github.com/user-attachments/assets/ba777651-de27-45cc-bd67-5d6051dbac3e)
+
+
+
