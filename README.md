@@ -34,13 +34,13 @@ This project implements a **Secure File Encryption and Decryption System** using
    python gui.py
    
 **Folder Structure**:
-encryption-system/
-├── encryption_utils.py             # Functions for file encryption and decryption
-├── decrypted_files/                # Folder where decrypted files are saved
-├── encrypted_files/                # Folder where encrypted files are stored
-├── gui.py                          # Main GUI file
-├── requirements.txt                # Dependencies for the project
-└── README.md                       # This file
+1. encryption-system/
+2. ├── encryption_utils.py             # Functions for file encryption and decryption
+3. ├── decrypted_files/                # Folder where decrypted files are saved
+4. ├── encrypted_files/                # Folder where encrypted files are stored
+5. ├── gui.py                          # Main GUI file
+6. ├── requirements.txt                # Dependencies for the project
+7. └── README.md                       # This file
 
 **Feel free to fork, clone, or contribute to the project!**
 
